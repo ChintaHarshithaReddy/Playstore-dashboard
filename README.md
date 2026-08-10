@@ -1,4 +1,4 @@
-# 📊 Play Store Analytics Dashboard
+# Play Store Analytics Dashboard
 
 An interactive, time-gated analytics dashboard built with **React + Recharts**,
 visualising Google Play Store data across **6 charts** — each visible only during
@@ -6,7 +6,7 @@ its scheduled IST time window.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 playstore-dashboard/
@@ -35,7 +35,7 @@ playstore-dashboard/
 
 ---
 
-## 📈 Chart Details
+##  Chart Details
 
 | # | Type | IST Window | Key Features |
 |---|------|-----------|--------------|
@@ -48,7 +48,7 @@ playstore-dashboard/
 
 ---
 
-## 🚀 Local Setup
+##  Local Setup
 
 ```bash
 # 1. Clone the repo
@@ -65,7 +65,7 @@ npm start
 
 ---
 
-## 🌐 Deploy to GitHub Pages (Free Hosting)
+##  Deploy to GitHub Pages (Free Hosting)
 
 ### Step 1 — Update `package.json`
 Replace `"homepage": "."` with your actual GitHub Pages URL:
@@ -100,7 +100,7 @@ Your live site will be at:
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 - **React 18** — UI framework
 - **Recharts** — chart library
 - **gh-pages** — GitHub Pages deployment
