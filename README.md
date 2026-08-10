@@ -108,7 +108,7 @@ Your live site will be at:
 
 ---
 
-## ⏰ Time Gate Logic
+##  Time Gate Logic
 All times are **IST (Indian Standard Time, UTC+5:30)**.
 Outside a chart's window, a 🔒 locked placeholder is shown.
 The dashboard re-checks every **15 seconds** automatically.
