@@ -52,7 +52,7 @@ playstore-dashboard/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/playstore-dashboard.git
+git clone https://github.com/ChintaHarshithaReddy/playstore-dashboard.git
 cd playstore-dashboard
 
 # 2. Install dependencies
@@ -70,7 +70,7 @@ npm start
 ### Step 1 — Update `package.json`
 Replace `"homepage": "."` with your actual GitHub Pages URL:
 ```json
-"homepage": "https://YOUR_USERNAME.github.io/playstore-dashboard"
+"homepage": "https://ChintaHarshithaReddy.github.io/playstore-dashboard"
 ```
 
 ### Step 2 — Push to GitHub
@@ -79,7 +79,7 @@ git init
 git add .
 git commit -m "Initial commit — Play Store Dashboard"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/playstore-dashboard.git
+git remote add origin https://github.com/ChintaHarshithaReddy/playstore-dashboard.git
 git push -u origin main
 ```
 
@@ -96,7 +96,7 @@ This builds the app and pushes it to the `gh-pages` branch automatically.
 4. Click **Save**
 
 Your live site will be at:
-`https://YOUR_USERNAME.github.io/playstore-dashboard`
+`https://ChintaHarshithaReddy.github.io/playstore-dashboard`
 
 ---
 
@@ -108,7 +108,7 @@ Your live site will be at:
 
 ---
 
-##  Time Gate Logic
-All times are **IST (Indian Standard Time, UTC+5:30)**.
-Outside a chart's window, a 🔒 locked placeholder is shown.
+## Time Gate Logic
+All times are **IST (Indian Standard Time, UTC+5:30) **.
+Outside a chart's window, a locked placeholder is shown.
 The dashboard re-checks every **15 seconds** automatically.
